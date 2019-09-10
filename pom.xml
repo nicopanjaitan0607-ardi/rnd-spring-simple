@@ -19,7 +19,7 @@
 
         <version.fabric8.plugin>3.5.38</version.fabric8.plugin>
         <fabric8.generator.fromMode>istag</fabric8.generator.fromMode>
-        <fabric8.generator.from>openjdk-11-rhel7</fabric8.generator.from>
+        <fabric8.generator.from>registry.access.redhat.com/openjdk/openjdk-11-rhel7</fabric8.generator.from>
 
     </properties>
 
